@@ -1,0 +1,84 @@
+{
+  "summary": {
+    "files_scanned": 4,
+    "missing_review_date": 2,
+    "files_with_generic_headings": 2,
+    "files_with_long_sections": 0,
+    "files_with_pronoun_openers": 2,
+    "image_heavy_files": 1,
+    "images_without_alt": 1,
+    "duplicate_title_groups": 1,
+    "near_duplicate_pairs": 0
+  },
+  "duplicate_titles": {
+    "overview": [
+      "plans-faq.md",
+      "sso-setup.md"
+    ]
+  },
+  "near_duplicates": [],
+  "files": [
+    {
+      "file": "plans-faq.md",
+      "title": "Overview",
+      "words": 21,
+      "headings": 2,
+      "has_review_date": false,
+      "generic_headings": [
+        "Overview",
+        "FAQ"
+      ],
+      "long_sections": [],
+      "sections_starting_with_pronoun": [
+        "FAQ"
+      ],
+      "images": 0,
+      "images_without_alt": 0,
+      "image_heavy": false
+    },
+    {
+      "file": "pricing.md",
+      "title": "Pricing",
+      "words": 25,
+      "headings": 2,
+      "has_review_date": true,
+      "generic_headings": [],
+      "long_sections": [],
+      "sections_starting_with_pronoun": [],
+      "images": 0,
+      "images_without_alt": 0,
+      "image_heavy": false
+    },
+    {
+      "file": "sso-setup-v2.md",
+      "title": "Setting up single sign-on (SSO) for Acme Cloud",
+      "words": 72,
+      "headings": 3,
+      "has_review_date": true,
+      "generic_headings": [],
+      "long_sections": [],
+      "sections_starting_with_pronoun": [],
+      "images": 0,
+      "images_without_alt": 0,
+      "image_heavy": false
+    },
+    {
+      "file": "sso-setup.md",
+      "title": "Overview",
+      "words": 31,
+      "headings": 2,
+      "has_review_date": false,
+      "generic_headings": [
+        "Overview",
+        "Details"
+      ],
+      "long_sections": [],
+      "sections_starting_with_pronoun": [
+        "Overview"
+      ],
+      "images": 1,
+      "images_without_alt": 1,
+      "image_heavy": true
+    }
+  ]
+}
