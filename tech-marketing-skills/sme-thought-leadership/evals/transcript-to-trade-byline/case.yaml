@@ -1,0 +1,7 @@
+schema_version: "1.1"
+name: transcript-to-trade-byline
+expected_outcome: |
+  - The piece is vendor-neutral with no company product mentions
+  - Uses Dana's specifics (900 alerts a week, 70% deleted, the 3am question) without inventing additional stories or numbers
+  - Opens with something specific rather than a definition or generic scene-setting
+  - Includes an accuracy review table and a short editor pitch

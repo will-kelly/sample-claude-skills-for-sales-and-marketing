@@ -1,0 +1,7 @@
+schema_version: "1.1"
+name: fluffy-landing-page
+expected_outcome: |
+  - Runs or emulates the scanner and flags buzzwords, absolutes, and the unattributed 10x claim
+  - Scores the five dimensions with an overall verdict
+  - Rewrites use placeholders instead of inventing real numbers or integrations
+  - Calls out the contact-sales-only CTA as a problem for developers

@@ -1,0 +1,8 @@
+schema_version: "1.1"
+name: oidc-release-notes
+expected_outcome: |
+  - Includes an engineering-to-customer translation table
+  - Recommends a launch tier with visible reasoning
+  - Treats the log streaming fix and Node bump as release-note items, not headline features
+  - Labels the audit log as beta consistently across every asset
+  - Ends with a confirm-before-publishing checklist

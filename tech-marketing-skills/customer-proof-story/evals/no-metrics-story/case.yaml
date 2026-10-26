@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: no-metrics-story
+expected_outcome: |
+  - Writes a qualitative story without fabricating metrics
+  - Flags METRIC NEEDED placeholders and suggests follow-up questions
+  - Describes the anonymous or named customer specifically enough to be credible

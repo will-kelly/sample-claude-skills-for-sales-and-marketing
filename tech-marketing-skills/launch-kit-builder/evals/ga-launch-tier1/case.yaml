@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: ga-launch-tier1
+expected_outcome: |
+  - Recommends Tier 1 or explains clearly why not
+  - Uses the $15/user/month price and Nov 18 date consistently across assets
+  - Uses placeholders rather than invented customer quotes or benchmark numbers

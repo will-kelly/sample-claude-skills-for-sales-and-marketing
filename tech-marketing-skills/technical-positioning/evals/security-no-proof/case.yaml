@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: security-no-proof
+expected_outcome: |
+  - Proceeds without stalling despite missing metrics
+  - Contains no invented customer names, percentages, or certifications
+  - Addresses cloud-provider bundled tools (e.g., AWS Security Hub or Microsoft Defender for Cloud) as alternatives

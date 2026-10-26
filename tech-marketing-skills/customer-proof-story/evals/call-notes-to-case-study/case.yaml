@@ -1,0 +1,7 @@
+schema_version: "1.1"
+name: call-notes-to-case-study
+expected_outcome: |
+  - Includes a metrics ledger tracing each number to the notes
+  - Does not convert 'about two weeks' or 'most services daily' into invented percentages
+  - Quote from Priya is preserved without changed meaning
+  - Includes an approval package with an email to the customer champion

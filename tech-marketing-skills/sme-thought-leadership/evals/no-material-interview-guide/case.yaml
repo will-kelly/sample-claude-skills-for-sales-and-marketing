@@ -1,0 +1,5 @@
+schema_version: "1.1"
+name: no-material-interview-guide
+expected_outcome: |
+  - Produces an interview guide with roughly 10 to 12 questions
+  - Questions draw out opinions and stories, not definitions
